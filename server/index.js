@@ -48,3 +48,4 @@ app.post("/createUser", (req, res) => {
 app.listen(3001, () => {
   console.log("Server is Running");
 });
+
